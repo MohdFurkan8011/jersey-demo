@@ -1,0 +1,3 @@
+com\jersey\rnd\inject\JustInTimeServiceResolver.class
+com\jersey\rnd\inject\ApplicationBinder.class
+com\jersey\rnd\Main.class

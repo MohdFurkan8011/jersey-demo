@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 16
+Class-Path: lib/jersey-container-grizzly2-http-2.29.1.jar lib/jakarta.in
+ ject-2.6.1.jar lib/grizzly-http-server-2.4.4.jar lib/grizzly-http-2.4.4
+ .jar lib/grizzly-framework-2.4.4.jar lib/jersey-common-2.29.1.jar lib/j
+ akarta.annotation-api-1.3.5.jar lib/osgi-resource-locator-1.0.3.jar lib
+ /jakarta.activation-1.2.1.jar lib/jersey-server-2.29.1.jar lib/jersey-c
+ lient-2.29.1.jar lib/jersey-media-jaxb-2.29.1.jar lib/jakarta.validatio
+ n-api-2.0.2.jar lib/jakarta.xml.bind-api-2.3.2.jar lib/jakarta.activati
+ on-api-1.2.1.jar lib/jakarta.ws.rs-api-2.1.6.jar lib/jersey-hk2-2.29.1.
+ jar lib/hk2-locator-2.6.1.jar lib/aopalliance-repackaged-2.6.1.jar lib/
+ hk2-api-2.6.1.jar lib/hk2-utils-2.6.1.jar lib/javassist-3.22.0-CR2.jar 
+ lib/jersey-media-json-binding-2.29.1.jar lib/jakarta.json-1.1.5.jar lib
+ /yasson-1.0.3.jar lib/jakarta.json.bind-api-1.0.2.jar lib/jakarta.json-
+ api-1.1.5.jar lib/commons-lang3-3.7.jar lib/mongodb-driver-sync-4.2.3.j
+ ar lib/bson-4.2.3.jar lib/mongodb-driver-core-4.2.3.jar lib/mongodb-cry
+ pt-1.2.0.jar lib/jna-5.6.0.jar lib/slf4j-api-1.7.6.jar lib/logback-clas
+ sic-1.2.3.jar lib/logback-core-1.2.3.jar lib/modelmapper-2.4.4.jar
+Main-Class: com.jersey.rnd.Main
+Created-By: Maven Integration for Eclipse
+
